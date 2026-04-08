@@ -1,0 +1,20 @@
+project/
+├── .exploration.dat    # Day-1
+├── assets/
+│   ├── images/
+│   │   └── Day-1/
+│   │       └── log.txt
+│   └── posts/
+│   │   └── Day-1/
+│   │       └── log.txt
+├── full_replies/
+│   │   └── Day-1/
+│   │       └── log.txt
+├── plan_data/
+│   │   └── Day-1/
+│   │       └── log.txt
+├── README.md
+└── reference_images/
+        └── Day-1/
+            └── log.txt
+
